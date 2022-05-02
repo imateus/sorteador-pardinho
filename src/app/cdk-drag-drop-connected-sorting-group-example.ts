@@ -24,11 +24,8 @@ export class CdkDragDropConnectedSortingGroupExample {
     'Andressa',
     'Maguila',
     'Ernesto',
-    'Bruno',
-    'Pupilo',
     'Léo',
     'Camori',
-    'Rogélio'
   ];
 
   todo: string[] = [];
