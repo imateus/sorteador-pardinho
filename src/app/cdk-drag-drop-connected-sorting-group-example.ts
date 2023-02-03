@@ -14,20 +14,16 @@ import {
   styleUrls: ['cdk-drag-drop-connected-sorting-group-example.css'],
 })
 export class CdkDragDropConnectedSortingGroupExample {
-  done = [
-    'Mateus',
-    'Rômulo',
+  done = ['Rômulo', 'Andressa', 'Léo', 'Camori', 'Thiago', 'Iago'];
+
+  outros = [
     'Fred',
     'Rodrigo',
     'Damatta',
     'Chicão',
-    'Andressa',
     'Maguila',
     'Ernesto',
-    'Léo',
-    'Camori',
     'Leandro',
-    'Iago',
   ];
 
   todo: string[] = [];
